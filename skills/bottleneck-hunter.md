@@ -343,7 +343,7 @@ B级瓶颈（有压力）：
 
 ### 7.2 状态文件
 
-在 `reports/bottleneck-map/` 目录维护：
+在 `reports/专题研究/bottleneck-map/` 目录维护：
 - `master-map.md` — 瓶颈总地图（持续更新）
 - `watchlist.md` — 观察名单（持续更新）
 - `YYYY-MM-DD/` — 每天一个文件夹，包含该天所有扫描报告
@@ -369,7 +369,7 @@ B级瓶颈（有压力）：
 
 ### 报告输出规则
 
-**每天一个文件夹**：`reports/bottleneck-map/YYYY-MM-DD/`
+**每天一个文件夹**：`reports/专题研究/bottleneck-map/YYYY-MM-DD/`
 
 **文件命名规则**（通过文件名一眼看出有没有标的）：
 
@@ -465,10 +465,10 @@ B级瓶颈（有压力）：
 ## 输出要求
 
 1. **报告位置**：
-   - 完整扫描：`reports/bottleneck-map/{趋势名}-bottleneck-{YYYYMMDD}.md`
-   - 每日扫描：`reports/bottleneck-map/daily/{YYYY-MM-DD}-{am/pm}.md`
-   - 瓶颈总地图：`reports/bottleneck-map/master-map.md`
-   - 观察名单：`reports/bottleneck-map/watchlist.md`
+   - 完整扫描：`reports/专题研究/bottleneck-map/{趋势名}-bottleneck-{YYYYMMDD}.md`
+   - 每日扫描：`reports/专题研究/bottleneck-map/daily/{YYYY-MM-DD}-{am/pm}.md`
+   - 瓶颈总地图：`reports/专题研究/bottleneck-map/master-map.md`
+   - 观察名单：`reports/专题研究/bottleneck-map/watchlist.md`
 2. **语言**：中文
 3. **风格**：直接、犀利、不说废话
 4. **数据**：所有数据标注来源；估计值标"估计"
